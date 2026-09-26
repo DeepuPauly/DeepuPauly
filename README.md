@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 I’m a Full Stack Developer based in Dubai, UAE<br>🔭 I’m currently working on scalable backend systems and full-stack applications<br>🤝 I’m looking to collaborate on open-source, AI and full-stack projects<br>🌱 I’m currently learning AI/ML, system design and advanced backend architecture<br>💬 Ask me about React, Next.js, Node.js, NestJS, Python, Django, FastAPI and PostgreSQL<br>⚡ I enjoy turning complex business requirements into reliable production applications
+#  About Me:
+ I’m a Full Stack Developer based in Dubai, UAE<br> I’m currently working on scalable backend systems and full-stack applications<br> I’m looking to collaborate on open-source, AI and full-stack projects<br> I’m currently learning AI/ML, system design and advanced backend architecture<br> Ask me about React, Next.js, Node.js, NestJS, Python, Django, FastAPI and PostgreSQL<br> I enjoy turning complex business requirements into reliable production applications
 
 
 ## 🌐 Socials:
