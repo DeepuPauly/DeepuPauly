@@ -2,7 +2,7 @@
  I’m a Full Stack Developer based in Dubai, UAE<br> I’m currently working on scalable backend systems and full-stack applications<br> I’m looking to collaborate on open-source, AI and full-stack projects<br> I’m currently learning AI/ML, system design and advanced backend architecture<br> Ask me about React, Next.js, Node.js, NestJS, Python, Django, FastAPI and PostgreSQL<br> I enjoy turning complex business requirements into reliable production applications
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/d_e._e_p_u/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepupauly03@gmail.com) 
 
 # 💻 Tech Stack:
