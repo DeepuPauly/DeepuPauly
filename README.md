@@ -35,66 +35,53 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,go,c&theme=dark" height="38" alt="Languages" />
-</td>
-</tr>
+<p align="center">
+  <strong>Languages & Core</strong>
+</p>
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,threejs&theme=dark" height="38" alt="Frontend" />
-</td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,go,c,html,css&theme=dark" />
+</p>
 
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,flask,laravel&theme=dark" height="38" alt="Backend" />
-</td>
-</tr>
+<br>
 
-<tr>
-<td><strong>Database</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase&theme=dark" height="38" alt="Databases" />
-</td>
-</tr>
+<p align="center">
+  <strong>Frontend & Backend</strong>
+</p>
 
-<tr>
-<td><strong>Cloud & DevOps</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,cloudflare,vercel,githubactions&theme=dark" height="38" alt="Cloud and DevOps" />
-</td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,express,django,fastapi,flask,laravel&theme=dark&perline=10" />
+</p>
 
-<tr>
-<td><strong>AI & ML</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="38" alt="AI and Machine Learning" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="Scikit-learn" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy" />
-</td>
-</tr>
+<br>
 
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman&theme=dark" height="38" alt="Development Tools" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>Databases & Infrastructure</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,aws,gcp,docker,kubernetes,nginx&theme=dark&perline=10" />
+</p>
+
+<br>
+
+<p align="center">
+  <strong>AI / ML & Development</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,githubactions,vscode,postman,vercel,cloudflare&theme=dark&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+</p>
 
 ---
 
