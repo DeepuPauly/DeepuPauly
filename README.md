@@ -35,56 +35,112 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <strong>Languages & Core</strong>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,django,fastapi,postgres,mongodb,redis,docker,aws,git&theme=dark&perline=15" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,go,c,html,css&theme=dark" />
-</p>
+<details>
+<summary><b>💻 Languages</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,go,c,html,css&theme=dark" />
+
+<br>
+<br>
+
+`TypeScript` · `JavaScript` · `Python` · `PHP` · `Go` · `C` · `HTML` · `CSS`
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,threejs&theme=dark" />
+
+<br>
+<br>
+
+`React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `Sass` · `Three.js`
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,flask,laravel&theme=dark" />
+
+<br>
+<br>
+
+`Node.js` · `NestJS` · `Express.js` · `Django` · `FastAPI` · `Flask` · `Laravel`
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Caching</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase&theme=dark" />
+
+<br>
+<br>
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `SQLite` · `Supabase`
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,cloudflare,vercel,githubactions&theme=dark" />
+
+<br>
+<br>
+
+`AWS` · `Google Cloud` · `Docker` · `Kubernetes` · `Nginx` · `Cloudflare` · `Vercel` · `GitHub Actions`
+
+</details>
+
+<details>
+<summary><b>🤖 AI / ML & Data</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
 <br>
 
-<p align="center">
-  <strong>Frontend & Backend</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,express,django,fastapi,flask,laravel&theme=dark&perline=10" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
 
 <br>
-
-<p align="center">
-  <strong>Databases & Infrastructure</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,aws,gcp,docker,kubernetes,nginx&theme=dark&perline=10" />
-</p>
-
 <br>
 
-<p align="center">
-  <strong>AI / ML & Development</strong>
-</p>
+`TensorFlow` · `PyTorch` · `OpenCV` · `Scikit-learn` · `Pandas` · `NumPy`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,githubactions,vscode,postman,vercel,cloudflare&theme=dark&perline=10" />
-</p>
+</details>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-</p>
+<details>
+<summary><b>🔨 Development Tools</b></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman&theme=dark" />
+
+<br>
+<br>
+
+`Git` · `GitHub` · `GitLab` · `Bitbucket` · `VS Code` · `Postman` · `Playwright`
+
+</details>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
