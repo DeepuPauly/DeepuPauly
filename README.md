@@ -37,58 +37,64 @@
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,go,c&theme=dark" height="38" alt="Languages" />
+</td>
+</tr>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,go,c,html,css&theme=dark" alt="Programming Languages" />
-</p>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,threejs&theme=dark" height="38" alt="Frontend" />
+</td>
+</tr>
 
-### ⚛️ Frontend
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,flask,laravel&theme=dark" height="38" alt="Backend" />
+</td>
+</tr>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,threejs&theme=dark" alt="Frontend Technologies" />
-</p>
+<tr>
+<td><strong>Database</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase&theme=dark" height="38" alt="Databases" />
+</td>
+</tr>
 
-### ⚙️ Backend
+<tr>
+<td><strong>Cloud & DevOps</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,cloudflare,vercel,githubactions&theme=dark" height="38" alt="Cloud and DevOps" />
+</td>
+</tr>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,flask,laravel&theme=dark" alt="Backend Technologies" />
-</p>
+<tr>
+<td><strong>AI & ML</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="38" alt="AI and Machine Learning" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="Scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy" />
+</td>
+</tr>
 
-### 🗄️ Databases & Caching
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase&theme=dark" alt="Databases" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,cloudflare,vercel,githubactions&theme=dark" alt="Cloud and DevOps" />
-</p>
-
-### 🤖 AI / ML & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and Machine Learning" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### 🔧 Development & Testing
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman&theme=dark" alt="Development Tools" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman&theme=dark" height="38" alt="Development Tools" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright" />
+</td>
+</tr>
+</table>
 
 ---
 
