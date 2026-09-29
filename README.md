@@ -150,13 +150,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeepuPauly&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
 <p align="center">
